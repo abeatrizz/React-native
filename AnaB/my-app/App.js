@@ -30,6 +30,6 @@ const styles = StyleSheet.create({
   image: {
     widht: 200,
     height: 200,
-    borderRadius: 100,
+    borderRadius: 100
   },
 });
